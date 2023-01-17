@@ -20,7 +20,7 @@ const World = () => (
       <TitleText
         title={(
           <>Track friends around you and invite them to play together in the same
-            world.
+            world
           </>
         )}
         textStyles="text-center"
